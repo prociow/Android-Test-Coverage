@@ -5,7 +5,7 @@
 
 ## How to run
 
-Your reports will be generate inside build folder: **app/build/reports/jacoco**
+Your repor ts will be generate inside build folder: **app/build/reports/jacoco**
 
 ```bash
 ./gradlew clean jacocoTestReport
